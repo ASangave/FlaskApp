@@ -1,1 +1,1 @@
-# Basic FlaskApp for ramp-up assignment
+# Basic Python FlaskApp for ramp-up assignment
