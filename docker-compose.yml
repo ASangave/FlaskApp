@@ -1,0 +1,6 @@
+web:
+  build: ./FlaskApp
+  ports:
+   - "5001:5000"
+  volumes:
+   - .:/code
